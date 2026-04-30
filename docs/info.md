@@ -17,4 +17,4 @@ conectamos varias entradas y salidas de diferentes elementos para un elemento fi
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+leds, and, compuertas, blabla
