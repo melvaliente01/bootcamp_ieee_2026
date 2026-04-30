@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Prueba del bootcamp cas 2026 utb 
 
 ## How to test
 
-Explain how to use your project
+conectamos varias entradas y salidas de diferentes elementos para un elemento final.
 
 ## External hardware
 
